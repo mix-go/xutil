@@ -1,10 +1,8 @@
-> OpenMix 出品：[https://openmix.org](https://openmix.org/mix-go)
+> Produced by OpenMix: [https://openmix.org](https://openmix.org/mix-go)
 
 ## Mix XUtil
 
 A set of tools that keep Golang sweet.
-
-一套让 Golang 保持甜美的工具。
 
 ## Installation
 
@@ -33,9 +31,9 @@ go get github.com/mix-go/xutil
 
 ## xfmt
 
-可以打印结构体嵌套指针地址内部数据的格式化库，[查看更多](xfmt/README.md)。
+A formatting library that can print data inside nested pointer addresses of structures, [see more](xfmt/README.md).
 
-支持的方法与 `fmt` 系统库完全一致
+The supported methods are identical to the `fmt` system library
 
 | Function                                                | Description       |  
 |---------------------------------------------------------|-------------------|
@@ -50,7 +48,7 @@ go get github.com/mix-go/xutil
 
 ## xenv
 
-具有类型转换功能的环境配置库，[查看更多](xenv/README.md)。
+Environment configuration library with type conversion, [see more](xenv/README.md).
 
 | Function                                  | Description |  
 |-------------------------------------------|-------------|
